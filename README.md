@@ -1,3 +1,8 @@
+# Atalho da publicação do projeto Pessoal
+
+[DevSuperior Projeto Darlan Medeiros](https://dsvendas-darlanmedeiros.netlify.app/)
+
+
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - SDS 5.0
 > Evento gratuito - 1 a 7 de novembro/2021
 > 
