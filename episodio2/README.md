@@ -360,3 +360,17 @@ git subtree push --prefix backend heroku main
 - Participe
   - Comente na página da Semana Spring React
   - Divulgue seu projeto no Linkedin e marque a DevSuperior
+
+
+Usuário Heroku
+
+postgres://
+usuario
+:
+senha
+@
+url
+:
+porta
+/
+nomeDoBanco
