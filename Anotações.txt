@@ -1,3 +1,3 @@
-Ok - Fazer a instalação do Heroku e enviar o projeto.
+Projeto executado utilizando heroku no backend e netlify no frontend
 
-Episodio 3 - 1 27 mint
+baseURL https://dsvendas-darlanmedeiros.netlify.app/
