@@ -1,4 +1,6 @@
-# Atalho da publicação do projeto Pessoal
+# Projeto desenvolvido
+
+>Projeto criado na Semana Spring React da DevSuperior
 
 [DevSuperior Projeto Darlan Medeiros](https://dsvendas-darlanmedeiros.netlify.app/)
 
@@ -14,27 +16,13 @@
 [![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
-# Recados importantes
-
-## 1) Os conteúdos ficarão disponíveis somente até domingo às 23h59
-
-## 2) Página de inscrição do evento
-- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds5-inscricao-org)
-
-## 3) Guias de instalação das ferramentas
+## 1) Guias de instalação das ferramentas
 - [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds5/tree/main/_instalacao/windows)
 - [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds5/tree/main/_instalacao/linux)
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds5/tree/main/_instalacao/mac)
 
-## 4) Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/Yx93FvqCDP)
-
-  - Apresente-se no canal `#papo-e-networking`
-  - Fique de olho nos avisos e no canal `#duvidas-frequentes`
-
-## 5) Passos para obter o certificado na nossa plataforma
+## 2) Passos para obter o certificado na nossa plataforma
 - [Passos para obter o certificado](https://github.com/devsuperior/sds5/tree/main/_certificado)
-
 
 ## Conteúdos de preparação
 
