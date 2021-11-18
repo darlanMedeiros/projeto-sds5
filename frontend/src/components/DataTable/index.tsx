@@ -1,7 +1,7 @@
 import axios from "axios";
+import Pagination from "components/Pagination";
 import { useEffect, useState } from "react";
 import { SalePage } from "types/sale";
-import { InternalSymbolName } from "typescript";
 import { formatLocalDate } from "utils/format";
 import { BASE_URL } from "utils/request";
 
@@ -17,17 +17,20 @@ const DataTable = () => {
     });
 
     useEffect(() => {
-        axios.get(`${BASE_URL}/sales?Page=0&size=20&sort=date,desc`)
+        axios.get(`${BASE_URL}/sales?page=0&size=20&sort=date,desc`)
             .then(response => {
                 setPage(response.data)
-
             });
 
     }, []);
 
 
     return (
+        <>
+        <Pagination page={page}/>      
+        
         < div className=" table-responsive " >
+        
             < table className=" table table-striped table-sm " >
                 < thead >
                     < tr >
@@ -51,6 +54,7 @@ const DataTable = () => {
                 </ tbody >
             </ table >
         </ div >
+        </>
 
     );
 }
